@@ -1,0 +1,8 @@
+C:\Users\t\Desktop\dem\Dem\dem_\bin\Debug\dem_.exe.config
+C:\Users\t\Desktop\dem\Dem\dem_\bin\Debug\dem_.exe
+C:\Users\t\Desktop\dem\Dem\dem_\bin\Debug\dem_.pdb
+C:\Users\t\Desktop\dem\Dem\dem_\obj\Debug\dem_.csprojResolveAssemblyReference.cache
+C:\Users\t\Desktop\dem\Dem\dem_\obj\Debug\dem_.Properties.Resources.resources
+C:\Users\t\Desktop\dem\Dem\dem_\obj\Debug\dem_.csproj.GenerateResource.Cache
+C:\Users\t\Desktop\dem\Dem\dem_\obj\Debug\dem_.exe
+C:\Users\t\Desktop\dem\Dem\dem_\obj\Debug\dem_.pdb
