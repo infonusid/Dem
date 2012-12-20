@@ -6,3 +6,4 @@ C:\Users\t\Desktop\dem\Dem\dem_\obj\Debug\dem_.Properties.Resources.resources
 C:\Users\t\Desktop\dem\Dem\dem_\obj\Debug\dem_.csproj.GenerateResource.Cache
 C:\Users\t\Desktop\dem\Dem\dem_\obj\Debug\dem_.exe
 C:\Users\t\Desktop\dem\Dem\dem_\obj\Debug\dem_.pdb
+C:\Users\t\Desktop\dem\Dem\dem_\obj\Debug\dem_.Form1.resources
